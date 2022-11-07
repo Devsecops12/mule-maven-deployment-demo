@@ -47,8 +47,8 @@
 				<extensions>true</extensions>
 				 <configuration>
 					 <cloudHubDeployment>
-						 <username>varsha_p</username>
-						 <p>C@yogita2809</p>
+						 <username>username</username>
+						 <p>password</p>
 						 <workers>1</workers>
 						 <workerType>Micro</workerType>
 						 <environment>Sandbox</environment>
